@@ -6,7 +6,7 @@ export function Dashboard(){
 
   return (
     <Container>
-      <Title>Dashboard</Title>
+      <Title>Teste</Title>
     </Container>
   )
 }
